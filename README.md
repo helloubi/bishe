@@ -3,6 +3,9 @@
 **最适合计算机专业毕业设计/课程设计的全栈解决方案**  
 **涵盖电商商城、外卖点餐、社区论坛等多场景应用**
 
+## 🤖AI系列
+### [基于DeepSeek的智慧医药系统](https://helloubi.com/project/31)
+
 ## 📱小程序系列
 ### [基于SpringBoot的智慧停车场微信小程序](https://helloubi.com/project/28)
 ### [校园二手书交易小程序](https://helloubi.com/project/5)
@@ -16,7 +19,6 @@
 ### [家乡旅游景点微信小程序](https://helloubi.com/project/17)
 
 
-
 ## ☕Java系列
 ### [基于SpringBoot的高校宿舍管理系统](https://helloubi.com/project/16)
 ### [基于SpringBoot的校园二手交易平台](https://helloubi.com/project/11)
@@ -25,6 +27,8 @@
 ### [基于SpringBoot的医院管理系统](https://helloubi.com/project/15)
 ### [基于SpringBoot的人才招聘管理系统](https://helloubi.com/project/12)
 ### [基于SpringBoot的企业人事管理系统](https://helloubi.com/project/10)
+### [基于SpringBoot的协同过滤算法电影推荐系统](https://helloubi.com/project/29)
+### [基于SpringBoot的商城管理系统](https://helloubi.com/project/30)
 
 
 ## 🐍Python系列
