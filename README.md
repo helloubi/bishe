@@ -17,6 +17,9 @@
 ### [记账本微信小程序](https://helloubi.com/project/24)
 ### [报修助手微信小程序](https://helloubi.com/project/18)
 ### [家乡旅游景点微信小程序](https://helloubi.com/project/17)
+### [校园自习室预约微信小程序](https://helloubi.com/project/35)
+### [基于SpringBoot的奶茶点餐小程序](https://helloubi.com/project/32)
+
 
 
 ## ☕Java系列
@@ -29,6 +32,9 @@
 ### [基于SpringBoot的企业人事管理系统](https://helloubi.com/project/10)
 ### [基于SpringBoot的协同过滤算法电影推荐系统](https://helloubi.com/project/29)
 ### [基于SpringBoot的商城管理系统](https://helloubi.com/project/30)
+### [基于SpringBoot的课程作业管理系统](https://helloubi.com/project/34)
+### [基于SpringBoot的农产品商城销售系统](https://helloubi.com/project/33)
+
 
 
 ## 🐍Python系列
